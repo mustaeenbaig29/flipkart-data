@@ -1,0 +1,36 @@
+[
+    {
+        "id": 1,
+        "category": "Mobiles"
+    },
+
+    {
+        "id": 2,
+        "category": "Fashion"
+    },
+
+    {
+        "id": 3,
+        "category": "Electronics"
+    },
+
+    {
+        "id": 4,
+        "category": "Home"
+    },
+
+    {
+        "id": 5,
+        "category": "Appliances"
+    },
+
+    {
+        "id": 6,
+        "category": "Furniture"
+    }, 
+
+    {
+        "id": 7,
+        "category": "Beauty,Toys and More"
+    }
+]
